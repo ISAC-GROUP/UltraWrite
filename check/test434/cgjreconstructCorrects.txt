@@ -1,0 +1,7 @@
+cgj
+1
+tensor(0.1163) tensor(0.1629) tensor(0.8371)
+3
+tensor(0.0953) tensor(0.1278) tensor(0.8722)
+5
+tensor(0.0857) tensor(0.1054) tensor(0.8946)

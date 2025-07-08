@@ -1,0 +1,14 @@
+Time5
+1
+tensor(0.0183) tensor(0.0288) tensor(0.9712)
+3
+tensor(0.0121) tensor(0.0153) tensor(0.9847)
+5
+tensor(0.0103) tensor(0.0126) tensor(0.9874)
+Time5
+1
+tensor(0.0186) tensor(0.0299) tensor(0.9701)
+3
+tensor(0.0117) tensor(0.0151) tensor(0.9849)
+5
+tensor(0.0099) tensor(0.0122) tensor(0.9878)

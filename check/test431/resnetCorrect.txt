@@ -1,0 +1,14 @@
+resnet
+1
+tensor(0.0492) tensor(0.0690) tensor(0.9310)
+3
+tensor(0.0385) tensor(0.0451) tensor(0.9549)
+5
+tensor(0.0365) tensor(0.0414) tensor(0.9586)
+resnet
+1
+tensor(0.0534) tensor(0.0737) tensor(0.9263)
+3
+tensor(0.0424) tensor(0.0501) tensor(0.9499)
+5
+tensor(0.0400) tensor(0.0458) tensor(0.9542)

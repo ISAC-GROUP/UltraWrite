@@ -1,0 +1,14 @@
+zy
+1
+tensor(0.0041) tensor(0.0088) tensor(0.9912)
+3
+tensor(0.) tensor(0.) tensor(1.)
+5
+tensor(0.) tensor(0.) tensor(1.)
+zy
+1
+tensor(0.0041) tensor(0.0088) tensor(0.9912)
+3
+tensor(0.) tensor(0.) tensor(1.)
+5
+tensor(0.) tensor(0.) tensor(1.)

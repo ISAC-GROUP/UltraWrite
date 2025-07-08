@@ -1,0 +1,61 @@
+zpz
+zpz
+Xiaomi
+1
+tensor(0.0159) tensor(0.0342) tensor(0.9658)
+3
+tensor(0.0080) tensor(0.0105) tensor(0.9895)
+5
+tensor(0.0072) tensor(0.0079) tensor(0.9921)
+GalaxyS9
+1
+tensor(0.0750) tensor(0.0952) tensor(0.9048)
+3
+tensor(0.0583) tensor(0.0649) tensor(0.9351)
+5
+tensor(0.0583) tensor(0.0649) tensor(0.9351)
+wdy
+Xiaomi
+1
+tensor(0.0198) tensor(0.0280) tensor(0.9720)
+3
+tensor(0.0121) tensor(0.0160) tensor(0.9840)
+5
+tensor(0.0066) tensor(0.0080) tensor(0.9920)
+GalaxyS9
+1
+tensor(0.0606) tensor(0.0924) tensor(0.9076)
+3
+tensor(0.0364) tensor(0.0442) tensor(0.9558)
+5
+tensor(0.0364) tensor(0.0442) tensor(0.9558)
+lcz
+Xiaomi
+1
+tensor(0.0121) tensor(0.0280) tensor(0.9720)
+3
+tensor(0.0055) tensor(0.0080) tensor(0.9920)
+5
+tensor(0.0033) tensor(0.0040) tensor(0.9960)
+GalaxyS9
+1
+tensor(0.0429) tensor(0.0680) tensor(0.9320)
+3
+tensor(0.0363) tensor(0.0520) tensor(0.9480)
+5
+tensor(0.0275) tensor(0.0360) tensor(0.9640)
+total
+Xiaomi
+1
+tensor(0.0159) tensor(0.0307) tensor(0.9693)
+3
+tensor(0.0084) tensor(0.0114) tensor(0.9886)
+5
+tensor(0.0059) tensor(0.0068) tensor(0.9932)
+GalaxyS9
+1
+tensor(0.0591) tensor(0.0849) tensor(0.9151)
+3
+tensor(0.0433) tensor(0.0534) tensor(0.9466)
+5
+tensor(0.0403) tensor(0.0479) tensor(0.9521)

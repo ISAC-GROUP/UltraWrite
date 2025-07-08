@@ -1,0 +1,7 @@
+zcl
+1
+tensor(0.0508) tensor(0.1168) tensor(0.8832)
+3
+tensor(0.0149) tensor(0.0272) tensor(0.9728)
+5
+tensor(0.0097) tensor(0.0163) tensor(0.9837)

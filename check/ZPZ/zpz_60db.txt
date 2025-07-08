@@ -1,0 +1,6 @@
+test user : 2 CER : tensor(0.0048) WER : tensor(0.0172) WAcc : tensor(0.9828)
+
+GIVE-8
+HOW-16
+PERSON-10
+PERSON-7

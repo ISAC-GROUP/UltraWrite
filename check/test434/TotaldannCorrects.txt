@@ -1,0 +1,7 @@
+Total
+1
+tensor(0.1219) tensor(0.1702) tensor(0.8298)
+3
+tensor(0.0965) tensor(0.1160) tensor(0.8840)
+5
+tensor(0.0878) tensor(0.1017) tensor(0.8983)

@@ -1,0 +1,8 @@
+Total
+1
+tensor(0.1270) tensor(0.3627) tensor(0.6373)
+3
+tensor(0.1053) tensor(0.2836) tensor(0.7164)
+5
+tensor(0.0993) tensor(0.2620) tensor(0.7380)
+avg samples : 351

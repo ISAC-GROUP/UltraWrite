@@ -1,0 +1,7 @@
+lmq
+1
+tensor(0.1111) tensor(0.2381) tensor(0.7619)
+3
+tensor(0.0536) tensor(0.0896) tensor(0.9104)
+5
+tensor(0.0427) tensor(0.0644) tensor(0.9356)

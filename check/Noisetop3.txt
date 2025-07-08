@@ -1,0 +1,12 @@
+zpz
+tensor(0.) tensor(0.) tensor(1.)
+tensor(0.) tensor(0.) tensor(1.)
+wdy
+tensor(0.0043) tensor(0.0052) tensor(0.9948)
+tensor(0.0022) tensor(0.0040) tensor(0.9960)
+lcz
+tensor(0.0011) tensor(0.0040) tensor(0.9960)
+tensor(0.0033) tensor(0.0040) tensor(0.9960)
+total
+tensor(0.0022) tensor(0.0035) tensor(0.9965)
+tensor(0.0019) tensor(0.0027) tensor(0.9973)

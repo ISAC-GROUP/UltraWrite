@@ -1,0 +1,14 @@
+gru
+1
+tensor(0.1146) tensor(0.1647) tensor(0.8353)
+3
+tensor(0.0857) tensor(0.1092) tensor(0.8908)
+5
+tensor(0.0802) tensor(0.1003) tensor(0.8997)
+gru
+1
+tensor(0.1163) tensor(0.1667) tensor(0.8333)
+3
+tensor(0.0883) tensor(0.1127) tensor(0.8873)
+5
+tensor(0.0828) tensor(0.1038) tensor(0.8962)

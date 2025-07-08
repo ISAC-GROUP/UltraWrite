@@ -1,0 +1,20 @@
+test user : 5 CER : tensor(0.0275) WER : tensor(0.0720) WAcc : tensor(0.9280)
+
+BUT-10
+BUT-3
+BUT-5
+BUT-8
+BUT-9
+CAN-1
+HELLO-3
+HELLO-6
+HELLO-7
+JOB-3
+PUT-1
+PUT-2
+PUT-3
+THAT-2
+WHY-12
+WHY-13
+WHY-14
+WHY-3

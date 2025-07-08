@@ -1,0 +1,7 @@
+are 2
+but 20
+give 15
+job 2
+next 19
+you 1
+zero 11

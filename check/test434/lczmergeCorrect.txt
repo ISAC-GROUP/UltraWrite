@@ -1,0 +1,14 @@
+lczmerge
+1
+tensor(0.2590) tensor(0.3227) tensor(0.6773)
+3
+tensor(0.2288) tensor(0.2613) tensor(0.7387)
+5
+tensor(0.2199) tensor(0.2480) tensor(0.7520)
+lcz
+1
+tensor(0.2461) tensor(0.3071) tensor(0.6929)
+3
+tensor(0.2116) tensor(0.2364) tensor(0.7636)
+5
+tensor(0.2033) tensor(0.2255) tensor(0.7745)

@@ -1,0 +1,7 @@
+zpz
+1
+tensor(0.1051) tensor(0.1391) tensor(0.8609)
+3
+tensor(0.0900) tensor(0.1014) tensor(0.8986)
+5
+tensor(0.0764) tensor(0.0812) tensor(0.9188)

@@ -1,0 +1,7 @@
+lcf
+1
+tensor(0.0848) tensor(0.1451) tensor(0.8549)
+3
+tensor(0.0551) tensor(0.0757) tensor(0.9243)
+5
+tensor(0.0524) tensor(0.0694) tensor(0.9306)

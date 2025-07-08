@@ -1,0 +1,14 @@
+Time3
+1
+tensor(0.0357) tensor(0.0524) tensor(0.9476)
+3
+tensor(0.0278) tensor(0.0340) tensor(0.9660)
+5
+tensor(0.0258) tensor(0.0310) tensor(0.9690)
+Time3
+1
+tensor(0.0346) tensor(0.0518) tensor(0.9482)
+3
+tensor(0.0266) tensor(0.0330) tensor(0.9670)
+5
+tensor(0.0245) tensor(0.0299) tensor(0.9701)

@@ -1,0 +1,24 @@
+zpz
+tensor(0.0039) tensor(0.0141) tensor(0.9859)
+tensor(0.0209) tensor(0.0520) tensor(0.9480)
+tensor(0.0110) tensor(0.0320) tensor(0.9680)
+tensor(0.0220) tensor(0.0560) tensor(0.9440)
+tensor(0.0099) tensor(0.0240) tensor(0.9760)
+wdy
+tensor(0.0037) tensor(0.0069) tensor(0.9931)
+tensor(0.0310) tensor(0.0726) tensor(0.9274)
+tensor(0.0143) tensor(0.0400) tensor(0.9600)
+tensor(0.0376) tensor(0.0763) tensor(0.9237)
+tensor(0.0154) tensor(0.0360) tensor(0.9640)
+lcz
+tensor(0.0037) tensor(0.0107) tensor(0.9893)
+tensor(0.0209) tensor(0.0683) tensor(0.9317)
+tensor(0.0121) tensor(0.0360) tensor(0.9640)
+tensor(0.0287) tensor(0.0683) tensor(0.9317)
+tensor(0.0185) tensor(0.0356) tensor(0.9644)
+total
+tensor(0.0038) tensor(0.0105) tensor(0.9895)
+tensor(0.0243) tensor(0.0643) tensor(0.9357)
+tensor(0.0125) tensor(0.0360) tensor(0.9640)
+tensor(0.0294) tensor(0.0668) tensor(0.9332)
+tensor(0.0146) tensor(0.0319) tensor(0.9681)

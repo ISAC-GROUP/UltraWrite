@@ -1,0 +1,7 @@
+cwy
+1
+tensor(0.1100) tensor(0.3420) tensor(0.6580)
+3
+tensor(0.0736) tensor(0.2098) tensor(0.7902)
+5
+tensor(0.0680) tensor(0.1897) tensor(0.8103)

@@ -1,0 +1,7 @@
+wdy
+1
+tensor(0.1229) tensor(0.1963) tensor(0.8037)
+3
+tensor(0.0928) tensor(0.1288) tensor(0.8712)
+5
+tensor(0.0861) tensor(0.1166) tensor(0.8834)

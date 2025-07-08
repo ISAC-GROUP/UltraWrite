@@ -1,0 +1,14 @@
+mobilnet
+1
+tensor(0.0190) tensor(0.0328) tensor(0.9672)
+3
+tensor(0.0122) tensor(0.0163) tensor(0.9837)
+5
+tensor(0.0105) tensor(0.0132) tensor(0.9868)
+mobilnet
+1
+tensor(0.0197) tensor(0.0341) tensor(0.9659)
+3
+tensor(0.0124) tensor(0.0165) tensor(0.9835)
+5
+tensor(0.0100) tensor(0.0128) tensor(0.9872)

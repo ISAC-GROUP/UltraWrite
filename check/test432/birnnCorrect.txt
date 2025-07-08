@@ -1,0 +1,14 @@
+birnn
+1
+tensor(0.0116) tensor(0.0230) tensor(0.9770)
+3
+tensor(0.0056) tensor(0.0077) tensor(0.9923)
+5
+tensor(0.0052) tensor(0.0071) tensor(0.9929)
+birnn
+1
+tensor(0.0120) tensor(0.0250) tensor(0.9750)
+3
+tensor(0.0054) tensor(0.0080) tensor(0.9920)
+5
+tensor(0.0051) tensor(0.0074) tensor(0.9926)

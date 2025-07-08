@@ -1,0 +1,7 @@
+lcz
+1
+tensor(0.1940) tensor(0.2536) tensor(0.7464)
+3
+tensor(0.1578) tensor(0.1778) tensor(0.8222)
+5
+tensor(0.1337) tensor(0.1429) tensor(0.8571)

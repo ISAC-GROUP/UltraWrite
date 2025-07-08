@@ -1,0 +1,14 @@
+rnn
+1
+tensor(0.1947) tensor(0.2732) tensor(0.7268)
+3
+tensor(0.1331) tensor(0.1631) tensor(0.8369)
+5
+tensor(0.1241) tensor(0.1490) tensor(0.8510)
+rnn
+1
+tensor(0.1958) tensor(0.2754) tensor(0.7246)
+3
+tensor(0.1341) tensor(0.1650) tensor(0.8350)
+5
+tensor(0.1247) tensor(0.1502) tensor(0.8498)

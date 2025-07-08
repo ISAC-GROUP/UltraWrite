@@ -1,0 +1,7 @@
+zy
+1
+tensor(0.0667) tensor(0.1083) tensor(0.8917)
+3
+tensor(0.0333) tensor(0.0382) tensor(0.9618)
+5
+tensor(0.0316) tensor(0.0350) tensor(0.9650)

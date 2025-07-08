@@ -1,0 +1,9 @@
+alexnet
+tensor(0.0363) tensor(0.1006) tensor(0.8994)
+mobilnet
+tensor(0.0363) tensor(0.0960) tensor(0.9040)
+resnet
+tensor(0.0702) tensor(0.1469) tensor(0.8531)
+lenet5
+tensor(0.0075) tensor(0.0205) tensor(0.9795)
+alexnet

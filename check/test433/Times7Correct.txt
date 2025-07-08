@@ -1,0 +1,14 @@
+Time7
+1
+tensor(0.0104) tensor(0.0175) tensor(0.9825)
+3
+tensor(0.0075) tensor(0.0113) tensor(0.9887)
+5
+tensor(0.0066) tensor(0.0098) tensor(0.9902)
+Time7
+1
+tensor(0.0098) tensor(0.0168) tensor(0.9832)
+3
+tensor(0.0070) tensor(0.0108) tensor(0.9892)
+5
+tensor(0.0062) tensor(0.0094) tensor(0.9906)

@@ -1,0 +1,14 @@
+bilstm
+1
+tensor(0.0063) tensor(0.0095) tensor(0.9905)
+3
+tensor(0.0035) tensor(0.0037) tensor(0.9963)
+5
+tensor(0.0034) tensor(0.0034) tensor(0.9966)
+bilstm
+1
+tensor(0.0064) tensor(0.0097) tensor(0.9903)
+3
+tensor(0.0038) tensor(0.0040) tensor(0.9960)
+5
+tensor(0.0036) tensor(0.0037) tensor(0.9963)

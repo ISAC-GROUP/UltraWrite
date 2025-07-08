@@ -1,0 +1,13 @@
+family 2
+give 3
+hello 16
+job 3
+job 9
+person 4
+quit 16
+quit 20
+quit 5
+world 5
+zero 17
+zero 18
+zero 20

@@ -1,0 +1,14 @@
+lstm
+1
+tensor(0.1608) tensor(0.2263) tensor(0.7737)
+3
+tensor(0.1154) tensor(0.1389) tensor(0.8611)
+5
+tensor(0.1080) tensor(0.1270) tensor(0.8730)
+lstm
+1
+tensor(0.1597) tensor(0.2262) tensor(0.7738)
+3
+tensor(0.1147) tensor(0.1391) tensor(0.8609)
+5
+tensor(0.1063) tensor(0.1255) tensor(0.8745)

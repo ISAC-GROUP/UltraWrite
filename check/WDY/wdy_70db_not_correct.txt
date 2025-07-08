@@ -1,0 +1,4 @@
+IS-2
+NEXT-5
+QUIT-8
+YOU-10

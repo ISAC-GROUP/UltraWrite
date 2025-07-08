@@ -1,0 +1,7 @@
+gs
+1
+tensor(0.1668) tensor(0.2355) tensor(0.7645)
+3
+tensor(0.1195) tensor(0.1484) tensor(0.8516)
+5
+tensor(0.1097) tensor(0.1323) tensor(0.8677)

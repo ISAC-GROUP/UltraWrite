@@ -1,0 +1,15 @@
+alexnet
+alexnet
+1
+tensor(0.0181) tensor(0.0368) tensor(0.9632)
+3
+tensor(0.0103) tensor(0.0144) tensor(0.9856)
+5
+tensor(0.0100) tensor(0.0138) tensor(0.9862)
+alexnet
+1
+tensor(0.0195) tensor(0.0390) tensor(0.9610)
+3
+tensor(0.0111) tensor(0.0156) tensor(0.9844)
+5
+tensor(0.0109) tensor(0.0151) tensor(0.9849)

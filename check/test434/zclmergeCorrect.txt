@@ -1,0 +1,14 @@
+zclmerge
+1
+tensor(0.0228) tensor(0.0402) tensor(0.9598)
+3
+tensor(0.0194) tensor(0.0310) tensor(0.9690)
+5
+tensor(0.0152) tensor(0.0186) tensor(0.9814)
+zcl
+1
+tensor(0.0224) tensor(0.0380) tensor(0.9620)
+3
+tensor(0.0194) tensor(0.0299) tensor(0.9701)
+5
+tensor(0.0157) tensor(0.0190) tensor(0.9810)

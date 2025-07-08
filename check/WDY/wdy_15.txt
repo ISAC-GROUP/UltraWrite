@@ -1,0 +1,11 @@
+test user : 3 CER : tensor(0.0154) WER : tensor(0.0360) WAcc : tensor(0.9640) 
+
+BUT-13
+GIVE-7
+NEXT-10
+PERSON-9
+QUIT-9
+WHERE-3
+WHY-11
+WHY-6
+WORLD-8

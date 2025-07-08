@@ -1,0 +1,14 @@
+cgjmerge
+1
+tensor(0.1948) tensor(0.2611) tensor(0.7389)
+3
+tensor(0.1721) tensor(0.2136) tensor(0.7864)
+5
+tensor(0.1623) tensor(0.1899) tensor(0.8101)
+cgj
+1
+tensor(0.1948) tensor(0.2611) tensor(0.7389)
+3
+tensor(0.1721) tensor(0.2136) tensor(0.7864)
+5
+tensor(0.1623) tensor(0.1899) tensor(0.8101)

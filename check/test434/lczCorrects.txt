@@ -1,0 +1,7 @@
+lcz
+1
+tensor(0.) tensor(0.) tensor(1.)
+3
+tensor(0.) tensor(0.) tensor(1.)
+5
+tensor(0.) tensor(0.) tensor(1.)
